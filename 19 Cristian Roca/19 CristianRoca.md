@@ -28,7 +28,7 @@ Los pasos a seguir son:
 
 6. Luego haremos un commit, escribiendo en terminal git commit -m "Mensaje a poner"
 
-7. Posteriormente enviaremos estos cambios a nuestro repositorio en GitHub con el comando git push -u rama01
+7. Posteriormente enviaremos estos cambios a nuestro repositorio en GitHub con el comando git push -u origin rama01
 
 8. Accederemos a nuestro GitHub, y haremos el merge de nuestros cambios enviados desde el clon local. 
 
