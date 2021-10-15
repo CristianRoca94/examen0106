@@ -21,3 +21,7 @@
 5. **Cambiamos a la rama**
 
     ![imagen5](13-Img/imagen5.png)
+
+6. **Guardaremos los cambios hechos**
+
+    ![imagen6](13-Img/imagen6.png)
