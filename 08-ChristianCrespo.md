@@ -7,3 +7,4 @@
 1. He hecho un **commit** con solo estos cambios para documentar el proceso: ![](08-img/Confirmacion.PNG)
 
 1. Seguido del **push**: ![](08-img/Push.PNG)
+1. Y el resto de cambios se han realizado de forma similar.
