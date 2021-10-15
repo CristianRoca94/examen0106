@@ -8,17 +8,16 @@ Los pasos a seguir son:
 
 1. Hacer un fork al repositorio main (el usuario propietario debe hacerte colaborador)
 
-![haciendofork](C:\Users\1daw3\Documents\19 Cristian Roca\examen0106\19 Cristian Roca\19 IMG\1.png)
-
-![haciendofork](C:\Users\1daw3\Documents\19 Cristian Roca\examen0106\19 Cristian Roca\19 IMG\2.png)
+![](19 IMG\1.png)
+![](19 IMG\2.png)
 
 2. Estando en nuestro repositorio, vamos a clonarlo este repositorio y para ello vamos a crear una carpeta en terminal y abrir la ubicacion donde vamos a clonar, como aparece en la imagen. Copiaremos el enlace de nuestro repositorio:
 
-![](C:\Users\1daw3\Documents\19 Cristian Roca\examen0106\19 Cristian Roca\19 IMG\3.png)
+![](19 IMG\3.png)
 
-![](C:\Users\1daw3\Documents\19 Cristian Roca\examen0106\19 Cristian Roca\19 IMG\4.png)
+![](19 IMG\4.png)
 
-![](C:\Users\1daw3\Documents\19 Cristian Roca\examen0106\19 Cristian Roca\19 IMG\5.png)
+![](19 IMG\5.png)
 
 3. Creamos una rama de trabajo con git checkout -b rama01
 
